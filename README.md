@@ -14,7 +14,7 @@ The second mode exposes that when some individuals in a group run from a danger 
 You can switch mode and change main settings in the config file.
 
 Result with the variable sizes mode. We can see that the fish make different shoals organized by their speed. The more little they are, the faster they are.
-!(variable)[variable.png]
+![variable](variable.png)
 
 Result with the big and little mode. Here we can see that the little fish are afraid from the big ones.
-!(big&little)[big&little.png]
+![little&big](little&big.png)
